@@ -19,4 +19,5 @@ python test.py
 
 If you want to use pretrained-model, use the trained_model under models folder
 
-## the model achieved 96.8 % accuracy on test-data
+## the model achieved 96.8 % accuracy on test-data  
+
